@@ -1,0 +1,16 @@
+{
+  "apiID": "package_1629a9__c__function_m3gudgxlc7aas",
+  "apiName": "nodejs02",
+  "label": {
+    "zh_CN": "nodejs 02",
+    "en_US": "nodejs 02"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
