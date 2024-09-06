@@ -1,0 +1,16 @@
+{
+  "apiID": "package_1629a9__c__function_aadg3gpmhicce",
+  "apiName": "nodeaaa",
+  "label": {
+    "zh_CN": "新建node页面",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
