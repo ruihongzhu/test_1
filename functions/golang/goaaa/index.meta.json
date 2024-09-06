@@ -1,0 +1,16 @@
+{
+  "apiID": "package_1629a9__c__function_aadg3gpmhimfe",
+  "apiName": "goaaa",
+  "label": {
+    "zh_CN": "新建go",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
